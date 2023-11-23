@@ -5,6 +5,7 @@ As part of Mission Ready's Github Education offering, you get Free Microsoft Azu
 
 Task 1. Prototype to Showcase AI Solution
 Build an application to find Similar Cars
+<br>
 
 The digital team at Turners would like to prototype a solution that allows a user to upload the picture of a car, and then find a similar car in their stock to recommend to customer. Build an application (either runs on your laptop or on the cloud) that can recognise motor vehicles (even better if it recognises certain types of vehicles, e.g. sedan vs hatchback) using a cloud-based AI service on Microsoft Azure. You can copy code from tutorials you find online, but make sure you read through the code so that you understand the code. 
 <br>
@@ -13,23 +14,27 @@ The following resources may help:
 <li>REQUIRED Computer Vision service on Azure:  https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/</li>
 <li>REQUIRED Custom Vision service on Azure: https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/</li>
 <li>RECOMMENDED https://cloud.google.com/vision#section-8</li>
+<br>
 
 Task 2. Code Review
 Obtain feedback on your code from your team member by allowing them to review your code. Similarly, review your team member's code by pointing out the code smells and offering a solution. Perform this activity within GitHub by raising a pull request from your feature branch to main and inviting reviewers. The reviewers are supposed to add comments within GitHub at relevant lines of code.
 <br>
 
-<ol>Push your code changes to a feature branch in your GitHub repository</ol>
-<ol>Create a pull request from your feature branch to the main branch.</ol>
-<ol>Invite the other team as reviewers for your pull request.</ol>
-<ol>Ask them to review your code and provide feedback.</ol>
-<ol>Review their code and provide feedback by adding comments within GitHub at relevant lines of code.</ol>
-<ol>Discuss the feedback with the other team and make any necessary changes to the code.</ol>
-<ol>Once the feedback has been addressed, merge the pull request into the main branch.</ol>
+<ol>
+<li>Push your code changes to a feature branch in your GitHub repository</li>
+<li>Create a pull request from your feature branch to the main branch.</li>
+<li>Invite the other team as reviewers for your pull request.</li>
+<li>Ask them to review your code and provide feedback.</li>
+<li>Review their code and provide feedback by adding comments within GitHub at relevant lines of code.</li>
+<li>Discuss the feedback with the other team and make any necessary changes to the code.</li>
+<li>Once the feedback has been addressed, merge the pull request into the main branch.</li>
+</ol>
 <br>
 
 The following resources may help:
 <li>​​​​​​​​​​​​​​RECOMMENDED Code smells https://blog.codinghorror.com/code-smells/</li>
 <li>RECOMMENDED Pull request reviews in GitHub https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews</li>
+<br>
 
 Task 3. Present at Show and Tell
 At the Show and Tell, you will present the tasks you completed.  This presentation should be designed to take around 3 minutes per person. The time limit will be strictly enforced. You are encouraged to demonstrate the live application.
